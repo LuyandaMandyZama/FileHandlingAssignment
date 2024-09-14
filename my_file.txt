@@ -1,0 +1,14 @@
+file = open("test.txt", "w")
+
+file.write("Greetings, Everyone!.")
+file.write("Today's date is 14/09/2024.")
+file.write("I have bought 10 cupcakes and 5 packets of chips.")
+file.write("My favourite foods are burger with chips and pizza!")
+
+file.close()
+First Line
+Second Line
+Third Line
+First Line
+Second Line
+Third Line
